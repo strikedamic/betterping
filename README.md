@@ -1,6 +1,6 @@
 # betterping
 
-A robust, colorized ping monitor for Windows with logging, statistics, and pause/resume support.
+A robust, colorized single-line ping monitor for Windows with logging, statistics, and pause/resume support.
 
 ## Features
 - Pings a target host at a configurable interval
